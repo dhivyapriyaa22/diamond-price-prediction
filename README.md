@@ -88,6 +88,7 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Priyadharshini Ramakrishnan
+## 👨‍💻 Author
 
-Your Name
+Priyadharshini Ramakrishnan
+
