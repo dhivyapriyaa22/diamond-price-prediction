@@ -61,7 +61,7 @@ This project builds a predictive model to:
 ### 1. Clone repository
 
 ```bash id="clone1"
-git clone https://github.com/YOUR_USERNAME/diamond-price-prediction.git
+git clone https://github.com/dhivyapriyaa22/diamond-price-prediction.git
 cd diamond-price-prediction
 ```
 
